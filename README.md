@@ -12,13 +12,15 @@ Senior Software Developer with 20+ years of experience in Delphi, desktop applic
 
 ## Web technologies
 
-• HTML, CSS, JavaScript  
-• React (CodersLab course)  
-• PHP  
+• HTML5, CSS3, JavaScript (ES6+), React (CodersLab course)
+• REST API integration and testing
+• JSON, XML, WebServices
+• HTTP protocols
+• PHP
 
 ## Other languages
 
-• C++, C#, Python  
+• Java, C++, C#, Python  
 
 ## Industry experience
 
@@ -27,8 +29,37 @@ Senior Software Developer with 20+ years of experience in Delphi, desktop applic
 • Casino gaming systems  
 • Enterprise applications  
 
-## Currently working on
+## Professional Experience Projects (non-open source)
 
-• Delphi tools  
-• Python utilities  
-• modern desktop applications  
+### Casino Gaming System (Interblock Gaming)
+Development of DirectX-based graphical user interfaces and hardware-integrated casino gaming software.
+
+Technologies:
+Delphi, DirectX, C++, DLL integration
+
+Role:
+Senior Software Developer
+
+---
+
+### Cruise Management System (MarineXChange)
+
+Enterprise cruise management platform.
+
+Technologies:
+Delphi, MS SQL, WebServices, API
+
+Role:
+Software Developer
+
+---
+
+### Banking and Portfolio Management System
+
+Financial software used by banks and brokerage firms.
+
+Technologies:
+Delphi, Oracle, DB2
+
+Role:
+Software Developer
