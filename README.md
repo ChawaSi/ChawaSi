@@ -1,16 +1,34 @@
-## Hi there 👋
+# Hi, I'm Dejan 👋
 
-<!--
-**ChawaSi/ChawaSi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Senior Software Developer with 20+ years of experience in Delphi, desktop applications, and database systems.
 
-Here are some ideas to get you started:
+## Main expertise
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+• Delphi (expert)  
+• Desktop application development  
+• MS SQL Server, Oracle, DB2  
+• API integration  
+• Performance optimization  
+
+## Web technologies
+
+• HTML, CSS, JavaScript  
+• React (CodersLab course)  
+• PHP  
+
+## Other languages
+
+• C++, C#, Python  
+
+## Industry experience
+
+• Banking systems  
+• Cruise software  
+• Casino gaming systems  
+• Enterprise applications  
+
+## Currently working on
+
+• Delphi tools  
+• Python utilities  
+• modern desktop applications  
